@@ -12,6 +12,10 @@ atur file
 
 * buat salinan env.example, dan rename menjadi .env, lalu ubah db_database pada .env untuk menghubungkan dengan database 
 
+import database
+
+* import file db_barang_fariz.sql ke dalam localhost/phpmyadmin 
+
 ## library
 
 **npm**
