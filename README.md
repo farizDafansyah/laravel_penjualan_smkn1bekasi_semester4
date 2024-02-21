@@ -1,6 +1,6 @@
 # laravel_penjualan_smkn1bekasi_semester4
  
-## untuk memulai
+## untuk memulai, hal yang harus anda lakukan ketika mendownload repo ini 
 
 terminal
 
