@@ -6,8 +6,8 @@
 - composer install
 
 * atur file
-- env (untuk menghubungkan ke database)
-- `Yajra\DataTables\DataTablesServiceProvider::class`, pada file config/app.php (untuk mendaftarkan yajra serviceProvider)
+- env
+buat salinan env.example dan rename menjadi .env dan ubah db_database untuk menghubungkan dengan database 
 
 ## library
 
