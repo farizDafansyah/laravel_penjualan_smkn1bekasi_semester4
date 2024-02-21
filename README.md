@@ -2,12 +2,15 @@
  
 ## untuk memulai
 * terminal
-- npm install
-- composer install
+
+npm install
+
+composer install
 
 * atur file
-- env
-buat salinan env.example dan rename menjadi .env dan ubah db_database untuk menghubungkan dengan database 
+
+env
+buat salinan env.example, dan rename menjadi .env, lalu ubah db_database untuk menghubungkan dengan database 
 
 ## library
 
