@@ -1,16 +1,16 @@
 # laravel_penjualan_smkn1bekasi_semester4
  
 ## untuk memulai
-* terminal
 
-npm install
+terminal
 
-composer install
+* npm install
 
-* atur file
+* composer install
 
-env
-buat salinan env.example, dan rename menjadi .env, lalu ubah db_database untuk menghubungkan dengan database 
+atur file
+
+* buat salinan env.example, dan rename menjadi .env, lalu ubah db_database pada .env untuk menghubungkan dengan database 
 
 ## library
 
