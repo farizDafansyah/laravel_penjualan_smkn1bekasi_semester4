@@ -4,9 +4,9 @@
 
 terminal
 
-* npm install
+* `npm install`
 
-* composer install
+* `composer install`
 
 atur file
 
